@@ -1,0 +1,10 @@
+1.sh
+aluno.txt
+arq-testes.txt
+arq.txt
+distr.txt
+erro.doc
+erro.txt
+gnu.txt
+prof.txt
+SO.txt
